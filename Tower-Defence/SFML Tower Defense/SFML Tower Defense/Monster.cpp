@@ -94,21 +94,21 @@ void Monster::anim_chodzenia()
 
 void Monster::road()
 {
-	if (sprite.getPosition().x == 900 && sprite.getPosition().y == 30)
+	if (sprite.getPosition().x >= 900 && sprite.getPosition().y == 30)
 		status = DOL;
-	else if (sprite.getPosition().x == 900 && sprite.getPosition().y == 200)
+	else if (sprite.getPosition().x >= 898 && sprite.getPosition().x <= 902 && sprite.getPosition().y >= 202 && sprite.getPosition().y <=204)
 		status = LEWO;
-	else if (sprite.getPosition().x == 100 && sprite.getPosition().y == 200)
+	else if (sprite.getPosition().x <= 100 && sprite.getPosition().y >= 198 && sprite.getPosition().y <=202)
 		status = DOL;
-	else if (sprite.getPosition().x == 100 && sprite.getPosition().y == 400)
+	else if (sprite.getPosition().x <= 100 && sprite.getPosition().y >= 398 && sprite.getPosition().y<=402)
 		status = PRAWO;
-	else if (sprite.getPosition().x == 900 && sprite.getPosition().y == 400)
+	else if (sprite.getPosition().x <= 902 && sprite.getPosition().x >= 898 && sprite.getPosition().y >= 398 && sprite.getPosition().y <= 402)
 		status = DOL;
-	else if (sprite.getPosition().x == 900 && sprite.getPosition().y == 600)
+	else if (sprite.getPosition().x >= 898 && sprite.getPosition().x<=902 && sprite.getPosition().y >= 598 && sprite.getPosition().y <=602)
 		status = LEWO;
-	else if (sprite.getPosition().x == 150 && sprite.getPosition().y == 600)
+	else if (sprite.getPosition().x <= 150 && sprite.getPosition().y <= 602 && sprite.getPosition().y >=598)
 		status = DOL;
-	else if (sprite.getPosition().x == 150 && sprite.getPosition().y == 800)
+	else if (sprite.getPosition().x <= 150 && sprite.getPosition().y <= 802 && sprite.getPosition().y >=798)
 		status = META;
 }
 
