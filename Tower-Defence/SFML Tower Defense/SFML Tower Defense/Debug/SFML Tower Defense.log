@@ -1,0 +1,23 @@
+﻿  Silnik.cpp
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(104): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(105): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(106): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(113): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(117): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(137): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(157): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(162): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(163): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(204): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(288): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(314): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(320): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(496): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(495): warning C4101: "kon2": lokalna zmienna, do której nie istnieje odwołanie
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(495): warning C4101: "kon": lokalna zmienna, do której nie istnieje odwołanie
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(522): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(549): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(443): warning C4715: "Silnik::possible”: niewszystkie ścieżki kodu zwracają wartość
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\silnik.cpp(517): warning C4715: "Silnik::free”: niewszystkie ścieżki kodu zwracają wartość
+e:\repozytorium\sftools\include\sftools\chronometer.hpp(172): warning C4715: "sftools::Chronometer::getElapsedTime”: niewszystkie ścieżki kodu zwracają wartość
+  SFML Tower Defense.vcxproj -> E:\Repozytorium\Rozpoczęcie\SFML TOWEREDIT\SFML Tower Defense\Debug\SFML Tower Defense.exe

@@ -1,0 +1,17 @@
+﻿  Zasoby.cpp
+  Tower.cpp
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\tower.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Sys.cpp
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\sys.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Silnik.cpp
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\tower.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  Player.cpp
+  Monster.cpp
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\sys.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\gra.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Gra.cpp
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\gra.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Bullet.cpp
+e:\repozytorium\rozpoczęcie\sfml toweredit\sfml tower defense\sfml tower defense\sys.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Graphics.hpp': No such file or directory
+  Generowanie kodu...
